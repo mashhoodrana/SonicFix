@@ -100,4 +100,3 @@ flutter run
 
 ---
 
-*Built for the Gemini 3 Hackathon 2026*
